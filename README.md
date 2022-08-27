@@ -1,3 +1,3 @@
 # DesafioC3C
 
-Todos os sripts estão dentro da pasta assets
+Todos os scripts estão dentro da pasta assets
